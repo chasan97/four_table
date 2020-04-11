@@ -1,0 +1,136 @@
+        /********************************************CLASS SELECTORS****************************************/
+
+
+.first-h1{
+  font-weight: normal;
+  margin-top: 1.6em;
+}
+
+.description-p{
+  text-align: center;
+  width: 30%;
+  margin: auto;
+  line-height: 1.5;
+
+}
+
+.main-div{
+  position: relative;
+  margin-top: 2em;
+  height: 48em;
+  width: 100%;
+
+
+}
+
+.supervisor{
+  width: 20%;
+  height: 40%;
+  text-align: left;
+  background-color: white;
+  border-radius: 2%;
+  border-top-style: solid;
+  border-top-color: hsl(180, 62%, 55%);
+  border-top-width: 5px;
+  position: absolute;
+  left: 15%;
+  top: 14.0625em;
+  padding: 10px;
+}
+
+.supervisor-p{
+  width: 90%;
+}
+
+.supervisor-img{
+  position: absolute;
+  bottom: 10%;
+  right: 10%;
+}
+
+.team-builder{
+  width: 20%;
+  height: 40%;
+  text-align: left;
+  background-color: white;
+  border-radius: 2%;
+  border-top-style: solid;
+  border-top-color: hsl(0, 78%, 62%);
+  border-top-width: 5px;
+  position: absolute;
+  left: 40%;
+  padding: 10px;
+}
+
+.team-builder-p{
+  width: 90%;
+}
+
+.team-builder-img{
+  position: absolute;
+  bottom: 10%;
+  right: 10%;
+}
+
+.karma{
+  width: 20%;
+  height: 40%;
+  text-align: left;
+  background-color: white;
+  border-radius: 2%;
+  border-top-style: solid;
+  border-top-color: hsl(34, 97%, 64%);
+  border-top-width: 5px;
+  position: absolute;
+  left: 40%;
+  top: 25em;
+  padding: 10px;
+}
+
+.karma-p{
+  width: 90%;
+}
+
+.karma-img{
+  position: absolute;
+  bottom: 10%;
+  right: 10%;
+}
+
+.calculator{
+  width: 20%;
+  height: 40%;
+  text-align: left;
+  background-color: white;
+  border-radius: 2%;
+  border-top-style: solid;
+  border-top-color: hsl(212, 86%, 64%);
+  border-top-width: 5px;
+  position: absolute;
+  right: 15%;
+  top: 14.0625em;
+  padding: 10px;
+}
+
+.calculator-p{
+  width: 90%;
+}
+
+.calculator-img{
+  position: absolute;
+  bottom: 10%;
+  right: 10%;
+}
+
+/***********************************************ELEMENT SELECTORS*****************************************/
+
+body{
+  background-color: #dee3e2;
+  font-family: 'Poppins', sans-serif;
+  font-size: 1em;
+  text-decoration-color: hsl(0, 0%, 98%);
+}
+
+h1{
+  text-align: center;
+}
